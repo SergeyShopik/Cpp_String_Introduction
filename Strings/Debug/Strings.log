@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\Strings\Strings\Source.cpp(227,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Strings\Strings\Source.cpp(230,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Strings\Strings\Source.cpp(230,41): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Strings\Strings\Source.cpp(282,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Strings\Strings\Source.cpp(319,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Strings\Strings\Source.cpp(340,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Strings.vcxproj -> C:\Users\HP\source\repos\Strings\Debug\Strings.exe
